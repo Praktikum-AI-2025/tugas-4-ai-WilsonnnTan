@@ -8,8 +8,8 @@ Pada proyek ini, dua model telah dievaluasi menggunakan data validasi dari direk
 
 - **Model `model_05.h5` (model_akhir)**  
   Akurasi validasi: **84.77%**  
-  (Pada evaluasi kedua mencapai **100.00%**, kemungkinan karena perubahan data validasi atau augmentasi yang tidak konsisten.)
+  Akurasi Data Training: **100%**
 
 - **Model `best_val_acc_model.h5` (model_best_val_accuracy)**  
   Akurasi validasi: **86.72%**  
-  (Pada evaluasi kedua mencapai **98.73%**.)
+  Akurasi Data Training: **98.73%**
